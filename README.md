@@ -1,2 +1,2 @@
 Simple quiz app.
-Stack technology: Clean Architecture, DataStore Preferences, Flow, Jetpack Compose, Koin, MVVM, Room, Retrofit,
+Stack technology: Clean Architecture,Coroutines, DataStore Preferences, Flow, Jetpack Compose, Koin, MVVM, Room, Retrofit,
